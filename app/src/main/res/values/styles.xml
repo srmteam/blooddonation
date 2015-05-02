@@ -1,0 +1,19 @@
+<resources>
+
+
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">#9575CD</item>
+    </style>
+    <style name="MyStatusBar" parent="@android:style/Widget">
+        <item name="android:background">#0000FF</item>
+    </style>
+
+</resources>

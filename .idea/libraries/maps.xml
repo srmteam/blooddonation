@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/ext_lib/maps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

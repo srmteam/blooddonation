@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item android:state_pressed="true"
+            android:color="#000"/> <!-- pressed -->
+        <item android:state_focused="true"
+            android:color="#FFFF"/> <!-- focused -->
+        <item android:color="#fdc0c0c0"/> <!-- default -->
+
+</selector><!-- From: file:/C:/Users/EXPLORE/Desktop/New%20folder/SRMDonor/app/src/main/res/drawable/button_color.xml -->

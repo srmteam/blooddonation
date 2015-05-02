@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MED+</string>
+    <string name="action_home">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="Username">Name</string>
+    <string name="Password">Password</string>
+    <string name="LoginGet">Log IN </string>
+    <string name="LoginPost">Register</string>
+    <string name="LoginStatus">Login Status</string>
+    <string name="LoginRole">Login Role</string>
+    <string name="Status">role</string>
+    <string name="Role">Status</string>
+    <string name="Choose">Choose Method</string>
+
+
+
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+
+        <item >Guidelines</item>
+        <item >Blood Bank</item>
+        <item >Credits</item>
+
+
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+
+        <item>@drawable/ic_guide</item>
+
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_launcher2</item>
+
+
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

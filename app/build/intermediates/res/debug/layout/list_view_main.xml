@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical">
+
+<!-- Show on Map button -->
+
+    <!--  List view -->
+<ListView
+    android:id="@+id/list"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+
+    />
+
+
+
+</RelativeLayout><!-- From: file:/C:/Users/EXPLORE/Desktop/New%20folder/SRMDonor/app/src/main/res/layout/list_view_main.xml -->

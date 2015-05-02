@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="effects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/ext_lib/effects.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

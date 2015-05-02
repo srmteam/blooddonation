@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-f3fa67c795ce0e031675769ab7301e96a884cea4.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-3aa537edc37afaa06e003662a9375702ad8e68e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-965d3611f63d52e389aed0aef219b120478368f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-8cc24ba3ad179cbe547de9c3f3d999e0a6c45c75.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-fd09bac414adc224038fcf4a2aee3f6a0cd42d5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-6de49c198421c6c7b429587df0f289d4b46f3a81.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-1e3d2bca489e64e1ef0fb21a41f48286fdf40ad0.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-475dfed0d6ddccd02e077dd5ce3260fcc1e9b320.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-4c2a3db2e944987e96eac04ba6ea110aaf9fc76b.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-c1511346b2c949a020bad01cf966ac1c5152d5f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\google-http-client-android2-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9848edeb7959c816798e428b3e1d1be1070e990f">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\google-http-client-android2-1.10.3-beta-6642f3e03396a658ec39ffd93da7d23efd7e313f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-41d1f3867a80917a33edb6cdcb0262866f21e377.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-9aae1a6ef9554ba33a0da0af7c7ea677892b958f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\google-api-client-android2-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91cbcf0bcf956de40d1202f981312d0626a3f586">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\google-api-client-android2-1.10.3-beta-756a08c4258915b318e1bebdfbd122b8ecbfda46.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-dc29ec999264884c9f0d65f4c76b3d5d2fef5504.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\effects.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f94b3ade4a96c3eb7136198456491ad8e299e3b">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\effects-1254adb74361b964e31c38e876a6c9f963a60f40.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-cbb180039a450d429883e67b93f9f6263532179a.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\usb.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a35b9d30a3221d555200767ac1c11dc87a7eda05">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\usb-6380297ab3a4309cead000b06e6f70c8a97e7d08.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\google-oauth-client-1.10.1-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e5fd289c7f262c4d79899403aecf3b93d281ea4">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.10.1-beta-d53a2914f00dc63a95513d02f26c3becac6c5b64.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\google-http-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1eb027463d245e499ee7f40123acf5bb394553dc">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\google-http-client-1.10.3-beta-bcfe9211f30c6fd2f53d3a6a85489affe4e69924.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\guava-11.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57b40a943725d43610c898ac0169adf1b2d55742">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\guava-11.0.1-ae5af6cf55a6c3becdbf697005f69b4ba0e07e8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\adt-bundle-windows-x86\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-2d5cc10d04c4461fff62d87d68c9a946adbc3fe9.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\jackson-core-asl-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d8b2a3e5bc77ee1be67d060b44ac77d48a27d6e">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.4-42e95ba165579fc59f0ae11339824e666d7a9889.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\google-api-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d29b1290ecd70554abd578cc69faafaa60388514">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\google-api-client-1.10.3-beta-7a9548a441d0e6ece32ea546f89d906cd856d36f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\protobuf-java-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a95d3e6df137d3369cc479ce7ad77703e430b2b">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\protobuf-java-2.2.0-de23fe8cd81ee8e53583dbcbdd63ac1cf51ab208.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-a894f103310eb5b69f8e4195d8de428bba86c97c.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\gson-2.1-4faa523d15661805d94a2c40f4ca2b132140bd5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\maps.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a58a087002e36a86e5dc6ae5aaf472a0c08379cd">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\maps-7cc02b8da29a0646332bbb05ae942e4ba5d6e86f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-3c727ce1bf82ae7e4fbd4f2a9539a8a0c099e2b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-2f403d63cee1973a6e29f6d26a7d46427efc5304.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-289fb8b7ebfe0794a4dd9f9fb1c8f52c13076fcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-9291f5333e8c7b107d9fceab3773219d49c2871b.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-48f901e60c03c320d19620fca868098742de8537.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-3232d48e13ac51a8c9a56b1032200b2f1a5c634f.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\src\main\ext_lib\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-156ea48a109277109d8d8b999e69936db3549220.jar" />
+    </item>
+    <item
+        jar="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\EXPLORE\Desktop\New folder\SRMDonor\app\build\intermediates\pre-dexed\debug\classes-9f3bd2e43dcf72bb222122fa05b5fd547e94a06b.jar" />
+    </item>
+
+</items>
